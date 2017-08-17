@@ -35,3 +35,4 @@ Legal Information & Credits
 
 Copyright (c) 2017 Norbert Zolek, Janusz Wojcik
 
+Trademarks of other companies and/or organizations mentioned in this documentation and web-site appear for identification purposes only and are the property of their respective companies and/or organizations.
