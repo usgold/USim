@@ -1,4 +1,4 @@
-# USim
+# USim 0.5
 Acoustic field simulator in fourier domain
 
 =========================
