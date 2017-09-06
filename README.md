@@ -1,4 +1,4 @@
-# USim 0.5
+# USim 0.5 (due to some bugs we are trying hard to remove from the code - please come back in few days)
 Acoustic field simulator in fourier domain
 
 =========================
@@ -10,7 +10,7 @@ The toolbox allows simulating the ultrasound wave propagation in non-homogeneous
 ## Citing
 ------
 USim is citationware. The paper that we recommend if you wish to cite USim, is *N. Zolek, J. Wojcik
-''USim - Acoustic Echoes Simulator in Fourier domain'' IUS 2017*.
+''Optimized Acoustic Echoes Simulator in Fourier domain'' IUS 2017*.
 
 
 ## Feedback
