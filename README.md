@@ -4,7 +4,7 @@
 
 ## Overview
 --------
-The toolbox, USim, is based on the Born-Neumann single scattering approximation of the solution of Sturm-Liouville equation. The toolbox allows simulating the ultrasound wave propagation in non-homogeneous media containing geometrical scatterers similar to those existing in a real tissues. The approach of calculations conducted in Fourier space increases the efficiency of the calculations and allows taking into account the absorption and density phenomena in a simple and correct way. The approach of calculations conducted in Fourier space increases the efficiency and allows taking into account the absorption and density phenomena in a simple and correct way. The forward simulations of the wave field are based on the Born-Neumann single scattering approximation of the solution of Sturm-Liouville equation. 
+The toolbox, USim, is based on the Born-Neumann single scattering approximation of the solution of Sturm-Liouville equation. The toolbox allows simulating the ultrasound wave propagation in non-homogeneous media containing geometrical scatterers similar to those existing in a real tissues. The approach of calculations conducted in Fourier space increases the efficiency of the calculations and allows taking into account the absorption and density phenomena in a simple and correct way. The forward simulations of the wave field are based on the Born-Neumann single scattering approximation of the solution of Sturm-Liouville equation. 
 
 ## Citing
 ------
