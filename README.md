@@ -10,7 +10,7 @@ The toolbox, USim, is based on the Born-Neumann single scattering approximation 
 ------
 USim is citationware. The paper that we recommend if you wish to cite USim, is 
 [1] N. Zolek, J. Wojcik, ''Optimized Acoustic Echoes Simulator in Fourier domain'' IUS 2017*.
-[2] N. Zolek, J. Wojcik, ''USim - Optimized Acoustic Echoes Simulator in Fourier domain'' 2020.
+[2] N. Zolek, J. Wojcik, ''Simulator of Acoustic Echoes in Nonhomogemeous Medium in Fourier domain'' 2020.
 
 
 ## Feedback
